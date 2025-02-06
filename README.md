@@ -44,9 +44,6 @@ VITE_TMDB_API_KEY=your_tmdb_api_key
 npm run dev
 ```
 
-## 🎨 UI Preview
-![Disney+ Hotstar Clone UI](https://disney-hotstar-clone-by-reshma.vercel.app/) <!-- Add a screenshot link here -->
-
 ## 🤝 Contribution
 Feel free to fork and contribute! Submit a PR with your improvements. 🚀
 
