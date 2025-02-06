@@ -2,7 +2,7 @@
 
 This is a **frontend-based clone** of **Disney+ Hotstar**, built using **Vite, React, and Tailwind CSS**. It fetches movies and TV shows using **The Movie Database (TMDb) API** and is deployed on **Vercel**.
 
-![Disney+ Hotstar Clone Preview](https://disney-hotstar-clone-by-reshma.vercel.app/) <!-- Add a screenshot link here -->
+<h4>Take live demo here : https://disney-hotstar-clone-by-reshma.vercel.app/ </h4> <!-- Add a screenshot link here -->
 
 ## 🚀 Features
 
